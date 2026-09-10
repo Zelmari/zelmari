@@ -1,4 +1,4 @@
-# zelmari
+# Zelmari
 
 Computer Science student at the University of Reading. Into building whatever seems useful or interesting to me.
 
