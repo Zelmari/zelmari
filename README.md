@@ -12,7 +12,7 @@ Computer Science student at the University of Reading. Into building whatever se
 
 `rust` `java` `python` `typescript` `sql`  
 `react` `next.js` `node` `postgres` `drizzle` `cloudflare workers`  
-`git` `linux`
+`git` `linux`  
 `agents`
 
 also: dsa, systems programming, async
