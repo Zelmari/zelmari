@@ -14,4 +14,7 @@ Computer Science student at the University of Reading. Into building whatever se
 `git` `linux`  
 `agents`
 
+## AI Policy
+- I am not anti AI, I support the use of AI in producing software just as I would any other tool that may approve efficiency and quality if used responsibly
+
 Also: dsa, systems programming, async
