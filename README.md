@@ -5,7 +5,7 @@ Computer Science student at the University of Reading. Into building whatever se
 ## Main Projects
 
 - **[zedarchive](https://zedarchive.com)** — media tracker for tv, anime, movies, and books. next.js, postgres, drizzle, cloudflare workers. shelves, friends, group chats, import/export
-- **[lumina](https://github.com/Zelmari/lumina)** — undergoing planning, will be a window manager for MacOS, a hybrid of hyprland and niri but opinionated to my tastes while allowing configuration
+- **[lumina](https://github.com/Zelmari/lumina)** — a tiling window manager for MacOS, heavily inspired by Hyprland
 
 ## Stack
 
